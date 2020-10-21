@@ -13,11 +13,12 @@
 
 ## Table of contents
 
-- [non-DL](#non-dl)
+- [Non-DL](#non-dl)
 - [DL](#dl)
 - [Datasets](#datasets)
+- [Other Resources](#other-resources)
 
-## non-DL
+## Non-DL
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2007|ICCV|[Using Color Compatibility for Assessing Image Realism](https://ieeexplore.ieee.org/document/4409107)|[Code](https://github.com/jflalonde/colorRealism)|
@@ -37,3 +38,7 @@
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2020|CVPR|[DoveNet: Deep Image Harmonization via Domain Verification](https://arxiv.org/abs/1911.13239)|[Dataset](https://github.com/bcmi/Image_Harmonization_Datasets)|
+
+## Other Resources
+
++ [Awesome-Image-Harmonization](https://github.com/bcmi/Awesome-Image-Harmonization)
