@@ -21,17 +21,15 @@
 ## Non-DL
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
+|2003|TOG|[Poisson image editing](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)||
+|2004|TOG|[Poisson matting](http://www.cs.jhu.edu/~misha/Fall07/Papers/Sun04.pdf)|[Code](https://github.com/MarcoForte/poisson-matting)|
+|2006|TOG|[Dragand-drop pasting](http://jiaya.me/archive/all_project_webpages/ddp/drag-and-drop_pasting.html)||
+|2006|TOG|[Color harmonization](https://igl.ethz.ch/projects/color-harmonization/harmonization.pdf)||
 |2007|ICCV|[Using Color Compatibility for Assessing Image Realism](https://ieeexplore.ieee.org/document/4409107)|[Code](https://github.com/jflalonde/colorRealism)|
+|2007|TOG|[Soft scissors: an interactive tool for realtime high quality matting](http://vis.berkeley.edu/papers/softscissors/softscissors-SIG07.pdf)|[Code](https://github.com/gugugupan/PJ-SoftScissors)|
+|2010|TOG|[Multi-scale image harmonization](http://www.kalyans.org/research/2012/Harmonization_SIG10.pdf)||
 |2012|TOG|[Understanding and improving the realism of image composites](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.5306&rep=rep1&type=pdf)||
 |2015|ICCV|[Learning a Discriminative Model for the Perception of Realism in Composite Images](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhu_Learning_a_Discriminative_ICCV_2015_paper.pdf)|[Code](https://github.com/junyanz/RealismCNN)|
-
-|2006|TOG|[Dragand-drop pasting](http://jiaya.me/archive/all_project_webpages/ddp/drag-and-drop_pasting.html)||
-|2010|TOG|[Multi-scale image harmonization](http://www.kalyans.org/research/2012/Harmonization_SIG10.pdf)||
-|2004|TOG|[Poisson matting](http://www.cs.jhu.edu/~misha/Fall07/Papers/Sun04.pdf)|[Code](https://github.com/MarcoForte/poisson-matting)|
-|2007|TOG|[Soft scissors: an interactive tool for realtime high quality matting](http://vis.berkeley.edu/papers/softscissors/softscissors-SIG07.pdf)|[Code](https://github.com/gugugupan/PJ-SoftScissors)|
-|2006|TOG|[Color harmonization](https://igl.ethz.ch/projects/color-harmonization/harmonization.pdf)||
-|2003|TOG|[Poisson image editing](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)||
-
 
 ## DL
 |Year|Pub|Paper|Repo|
